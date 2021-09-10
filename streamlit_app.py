@@ -8,7 +8,7 @@ import streamlit as st
 import pandas as pd
 import hvplot.pandas
 import numpy as np
-import fire
+# import fire
 import questionary
 import pytz
 import datetime as dt
