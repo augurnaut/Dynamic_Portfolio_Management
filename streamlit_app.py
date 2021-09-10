@@ -19,7 +19,6 @@ import datetime as dt
 
 import os
 import pandas as pd
-from dotenv import load_dotenv
 import alpaca_trade_api as trade_api
 from datetime import date
 
